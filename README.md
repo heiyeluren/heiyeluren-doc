@@ -5,6 +5,7 @@
 
 *说明：以下文档都是个人过去原创技术分享相关技术文档*
 
+
 <br />
 
 - [《如何构建更健壮的在线系统》](https://github.com/heiyeluren/docs/raw/master/files/How-to-build-a-robust-system-202011.pdf) (2020-11，好未来内部分享)
@@ -28,6 +29,11 @@
 - [《Memcached原理和使用》](https://github.com/heiyeluren/docs/raw/master/files/Memcached-principles-and-use.pdf) (2009-01，腾讯内部分享)
 
 -  ( 持续更新 )
+
+<br />
+
+- *注意：因为Github CDN域名 raw.githubusercontent.com 被GFW封锁，请国内用户科学上网访问下载*
+
 
 <br />
 
