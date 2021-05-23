@@ -29,5 +29,19 @@
 
 -  ( 持续更新 )
 
+<br />
 
+#
+
+<br />
+
+###### 个人技术博客：https://blog.csdn.net/heiyeshuwu
+
+###### 个人技术公众号：( heiyeluren2021 )
+![image](https://raw.githubusercontent.com/heiyeluren/docs/master/imgs/heiyeluren-wx-public.png)
+
+<br />
+
+###### 联系黑夜路人个人微信：
+![image](https://raw.githubusercontent.com/heiyeluren/docs/master/imgs/heiyeluren-wx-prive-account.png)
 
