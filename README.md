@@ -27,7 +27,7 @@
 
 - [《Memcached原理和使用》](https://github.com/heiyeluren/docs/raw/master/files/Memcached-principles-and-use.pdf) (2009-01，腾讯内部分享)
 
--  ...
+-  ( 持续更新 )
 
 
 
