@@ -8,6 +8,8 @@
 
 <br />
 
+- [《结构化的思考与表达》](https://raw.githubusercontent.com/heiyeluren/docs/master/files/Structured-thinking-and-expression-202109.Black.pdf) (2021-09，好未来内部分享)
+
 - [《如何构建更健壮的在线系统》](https://github.com/heiyeluren/docs/raw/master/files/How-to-build-a-robust-system-202011.pdf) (2020-11，好未来内部分享)
 
 - [《PHP/Go程序员的发展与规划》](https://github.com/heiyeluren/docs/raw/master/files/Career-development-plan-of-PHP%26Go-programmer.202003.pptx) (2020-03，好未来内部1100人分享)
