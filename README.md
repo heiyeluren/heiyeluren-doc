@@ -1,4 +1,4 @@
-## 黑夜路人技术文档中心
+## 黑夜路人文档中心
 
 ###### Heiyeluren Documents List
 
@@ -8,31 +8,60 @@
 
 <br />
 
-- [《结构化的思考与表达》](https://raw.githubusercontent.com/heiyeluren/docs/master/files/Structured-thinking-and-expression-202109.Black.pdf) (2021-09，好未来内部分享)
+#### 技术文档
 
-- [《如何构建更健壮的在线系统》](https://github.com/heiyeluren/docs/raw/master/files/How-to-build-a-robust-system-202011.pdf) (2020-11，好未来内部分享)
+- [《入门计算机工程师关注的技术能力》](https://github.com/heiyeluren/docs/raw/master/files/入门计算机工程师关注的技术能力_heiyeluren_20210721.pptx)  (2021-07，好未来内部分享 )
 
-- [《PHP/Go程序员的发展与规划》](https://github.com/heiyeluren/docs/raw/master/files/Career-development-plan-of-PHP%26Go-programmer.202003.pptx) (2020-03，好未来内部1100人分享)
+- [《如何构建更健壮的在线系统》](https://github.com/heiyeluren/docs/raw/master/files/如何构建更健壮的在线系统_heiyeluren_202011.pptx)  (2020-11，好未来内部分享)
 
-- [《MySQL工作原理及使用调优》](https://github.com/heiyeluren/docs/raw/master/files/MySQL-in-LNMP-development-20160817.ppt) (2016-08，StuQ技术分享)
+- [《全文搜索技术原理入门》](https://github.com/heiyeluren/docs/raw/master/files/全文搜索技术原理入门_heiyeluren_20170222.pptx)  (2017-02，木桶技术群分享)
 
-- [《有趣的Nginx》](https://github.com/heiyeluren/docs/raw/master/files/Interesting.Nginx-20130315.ppt) (2013-03，360公司内分享)
+- [《LNMP开发中的Nginx》](https://github.com/heiyeluren/docs/raw/master/files/LNMP开发中的Nginx_heiyeluren_20161130.pptx)  (2016-11，StuQ技术分享)
 
-- [《PHP超时技术全面总结》](https://github.com/heiyeluren/docs/raw/master/files/PHP-Timeout-Technology-All.2012.08.docx) (2012-08，个人总结)
+- [《LAMP开发中的MySQL》](https://github.com/heiyeluren/docs/raw/master/files/LAMP开发中的MySQL_heiyeluren_20160817.pptx)  (2016-08，StuQ技术分享)
 
-- [《构建基于LAMP的网站架构2.0》](https://github.com/heiyeluren/docs/raw/master/files/Build-based-LAMP-website-structure-2011.pptx) (2011-07，百度内部分享)
+- [《有趣的Nginx》](https://github.com/heiyeluren/docs/raw/master/files/有趣的Nginx_heiyeluren_20130315.ppt)  (2013-03，360公司内分享)
 
-- [《构建基于LAMP的中型网站架构1.0》](https://github.com/heiyeluren/docs/raw/master/files/Build-based-LAMP-website-structure-PHP-Beijing-2010.pptx) (2010-12，兄弟连分享)
+- [《PHP超时处理全面总结》](https://github.com/heiyeluren/docs/raw/master/files/PHP超时处理全面总结_heiyeluren_20120808.pdf)  (2012-08，个人技术博客分享)
 
-- [《PHP调试技术手册》](https://github.com/heiyeluren/docs/raw/master/files/PHP-Debug-Manual-public.pdf) (2010-06，百度内部分享)
+- [《构建基于LAMP的网站架构-V2》](https://github.com/heiyeluren/docs/raw/master/files/构建基于LAMP的网站架构-V2_heiyeluren_20110702.pptx)  (2011-07，百度内部分享)
 
-- [《MySQL介绍和优化分享》](https://github.com/heiyeluren/docs/raw/master/files/MySQL-Introduction-and-Performance-Optimization.pdf) (2009-07, 腾讯内部分享)
+- [《构建基于LAMP的网站架构-V1》](https://github.com/heiyeluren/docs/raw/master/files/构建基于LAMP的网站架构-V1_heiyeluren_20101219.pptx)  (2010-12，兄弟连培训分享)
 
-- [《Memcached原理和使用》](https://github.com/heiyeluren/docs/raw/master/files/Memcached-principles-and-use.pdf) (2009-01，腾讯内部分享)
+- [《PHP调试技术手册》](https://github.com/heiyeluren/docs/raw/master/files/PHP调试技术手册_heiyeluren_20100613.pdf)  (2010-06，百度内部分享)
+
+- [《MySQL介绍与优化分享》](https://github.com/heiyeluren/docs/raw/master/files/MySQL介绍与优化分享_heiyeluren_200907.pdf)  (2009-07, 腾讯内部分享)
+
+- [《Memcached使用和原理详解》](https://github.com/heiyeluren/docs/raw/master/files/Memcached使用和原理详解_heiyeluren_200901.pdf)  (2009-01, 腾讯内部分享)
+
 
 -  ( 持续更新 )
 
 <br />
+
+#### 非技术文档
+
+- [《结构化的思考与表达》](https://github.com/heiyeluren/docs/raw/master/files/结构化的思考与表达_heiyeluren_202108.pdf)  (2021-08，好未来内部培训分享)
+
+- [《工程师的六大意识》](https://github.com/heiyeluren/docs/raw/master/files/工程师的六大意识_heiyeluren_20200927.pptx)  (2020-09，好未来内部分享)
+
+- [《管理培训之“激励”》](https://github.com/heiyeluren/docs/raw/master/files/管理培训之“激励”_heiyeluren_20200808.pptx)  (2020-08，好未来内部分享)
+
+- [《PHP&Go程序员的发展规划》](https://github.com/heiyeluren/docs/raw/master/files/PHP&Go程序员的发展规划_heiyeluren_202003.pptx)  (2020-03，好未来内部1100人分享)
+
+- [《项目管理入门培训》](https://github.com/heiyeluren/docs/raw/master/files/项目管理入门培训_heiyeluren_201811.pptx)  (201811，好未来内部分享)
+
+- [《如何成为优秀的面试官》](https://github.com/heiyeluren/docs/raw/master/files/如何成为优秀的面试官_heiyeluren_20160903.pptx)  (2016-09，创业团队分享)
+
+- [《如何提升我们的工作效率》](https://github.com/heiyeluren/docs/raw/master/files/如何提升我们的工作效率_heiyeluren_20160903.pptx)  (2016-09，创业团队分享)
+
+
+-  ( 持续更新 )
+
+
+<br />
+<br />
+
 
 - *注意：因为Github CDN域名 raw.githubusercontent.com 被GFW封锁，请国内用户科学上网访问下载*
 
