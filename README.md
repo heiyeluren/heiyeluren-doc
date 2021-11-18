@@ -10,11 +10,13 @@
 
 #### 技术文档
 
+- [《全文搜索技术原理入门 V1.2》](https://github.com/heiyeluren/docs/raw/master/files/%E5%85%A8%E6%96%87%E6%90%9C%E7%B4%A2%E6%8A%80%E6%9C%AF%E5%8E%9F%E7%90%86%E5%85%A5%E9%97%A8_heiyeluren_20211118.pdf)  (2021-11，优化更新)
+
 - [《入门计算机工程师关注的技术能力》](https://github.com/heiyeluren/docs/raw/master/files/入门计算机工程师关注的技术能力_heiyeluren_20210721.pptx)  (2021-07，好未来内部分享 )
 
 - [《如何构建更健壮的在线系统》](https://github.com/heiyeluren/docs/raw/master/files/如何构建更健壮的在线系统_heiyeluren_202011.pptx)  (2020-11，好未来内部分享)
 
-- [《全文搜索技术原理入门》](https://github.com/heiyeluren/docs/raw/master/files/全文搜索技术原理入门_heiyeluren_20170222.pptx)  (2017-02，木桶技术群分享)
+- [《全文搜索技术原理入门 V1.0》](https://github.com/heiyeluren/docs/raw/master/files/全文搜索技术原理入门_heiyeluren_20170222.pptx)  (2017-02，木桶技术群分享)
 
 - [《LNMP开发中的Nginx》](https://github.com/heiyeluren/docs/raw/master/files/LNMP开发中的Nginx_heiyeluren_20161130.pptx)  (2016-11，StuQ技术分享)
 
@@ -74,7 +76,7 @@
 
 ###### 个人技术博客：https://blog.csdn.net/heiyeshuwu
 
-###### 个人技术公众号：( heiyeluren2012 )
+###### 个人技术公众号：( heiyeluren2021 )
 ![image](https://raw.githubusercontent.com/heiyeluren/docs/master/imgs/heiyeluren-wx-public-account.jpg)
 
 <br />
