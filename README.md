@@ -76,7 +76,7 @@
 
 ###### 个人技术博客：https://blog.csdn.net/heiyeshuwu
 
-###### 个人技术公众号：( heiyeluren2021 )
+###### 个人技术公众号：( heiyeluren2012 )
 ![image](https://raw.githubusercontent.com/heiyeluren/docs/master/imgs/heiyeluren-wx-public-account.jpg)
 
 <br />
